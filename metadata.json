@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Math Playground 70\"",
+  "description": "An interactive math education portal for 70-inch classroom whiteboards. Covers integers, set diagrams, and balanced equations using Polya's 4-step framework, with a downloadable worksheet generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
